@@ -1,0 +1,9 @@
+
+{
+  "name": "PNC Dev Portfolio Pro",
+  "description": "A high-performance personal portfolio featuring a project gallery, professional experience timeline, and AI-powered project brainstorming using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
