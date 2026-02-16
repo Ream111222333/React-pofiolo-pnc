@@ -17,7 +17,7 @@ export const PROJECTS: Project[] = [
     description: 'Scalable RESTful API architecture implementing JWT authentication and MongoDB aggregation pipelines.',
     category: 'Backend',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB2m-gFv2Ln4Un03WY5gvsxlPNuHMgje6eRPuxW6pjLUxbj78z5IMu9wzwAquKb1ooaunpvKcwRV6-k9QAOsjVYTNskt5Uu3_-Z2LUp5bnYZy8rK7BrSj3jENFbNfU5BMQTqWwJAGif6Yg0rGCVOMqzvBY6HFJIDOg3rF29TC-VArB6FmwtPYZWZSR8Uly2jid7jDOwyxGqTkoqF7ozxdINWOKn3XIveFkrUwGV6_v8hSGiLiTU30zz1qCEmV-bhrH7szr8ahu4H4M',
-    tags: ['Node.js', 'Express', 'MongoDB'],
+    tags: ['React.js', 'Express', 'Database'],
     links: { docs: '#', source: '#' }
   },
   {
@@ -26,7 +26,7 @@ export const PROJECTS: Project[] = [
     description: 'Complete e-commerce solution with Stripe integration, product management, and user profiles.',
     category: 'Full-stack',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCD9JgylhQJPXLnl_d2Yv4Nh09oz76b9vkfCfMdcmkpJnD9omXVc08jP60HKPEYEE7UMbAxciudNuI80JWCZwnTmi4Fq7XpLCcO3KeZge18dneSRtSEb0vcBewed7yVQ63wQTVTNTQCEs-rLb4bhQdxaMIs9CLXOKXSJfYuu3OQBVKj_nmA5AluWxD4UH8PpWP3BLRNkVWSjjvS-GqqmQpY3hidftn8a_bFeNB1hWnI4ZsCx9DLO-Fuw1nwUoFWXqWDnGF_BX1Twqw',
-    tags: ['Next.js', 'PostgreSQL', 'Prisma'],
+    tags: ['Vue.js', 'Laravel', 'SQL'],
     links: { app: '#', source: '#' }
   },
   {
@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     description: 'A browser-based code editor with syntax highlighting and live preview for web languages.',
     category: 'Frontend',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDiBr3tiA7Vm7yDHL5G7yfk61pZdUP974-fpKvPODPgdNdNFAj9-yo1BW4t2ZgsQTz3UsrRiyoxIf2cgUY2VYRgJ9U4vIoDe1-llGuvot1SpQR9HIzJT6kk8G0fwPwIwH3h-6yqwfsTB3mQpuX5l-jHm12ybXTiEZd0c_PnzwYhrTm_Iv89hDj_2nkUGDysMyhyQHy7zc25G6oq0oT9r7lKVjswqGj2VCuOuXY8jLBBdKt7UicCx4cXRKGy_hQgm4Cik6xlu0LVfhs',
-    tags: ['TypeScript', 'Monaco Editor'],
+    tags: ['PHP', 'Figma'],
     links: { demo: '#', source: '#' }
   },
   {
@@ -53,7 +53,7 @@ export const PROJECTS: Project[] = [
     description: 'Real-time social platform featuring instant messaging, image sharing, and dynamic feed updates.',
     category: 'Full-stack',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDLG_7mbMQkFlAZk9DcY45NHYcbN_Azm8SChZmU3ncHEvngHZ-BNKLYoRe4gBvJ5c3xhBU0wQsIlK_O74j0dhpXQuSqZ_iapYSMRe1EZS1kWzuAE6Op3SrIzXQZPDePTO8lSaxQ-KKK66x1KDdAiIVJi2oEJv7i8zoBr5jypee5Jlz5vYzrtuxFEdfCZePrxSogf3kMNT5DKEBGjSA2Zqqg7M3OUwM1fD0rLqUpwUueT4bivvcYIVZj0zQBOHM9vl73qO1tj4Leggk',
-    tags: ['React Native', 'Firebase', 'Socket.io'],
+    tags: ['React Native', 'Worldpress', 'javascrip'],
     links: { app: '#', source: '#' }
   },
 ];
@@ -63,14 +63,14 @@ export const EXPERIENCES: Experience[] = [
     id: 'exp1',
     title: 'Frontend Development Intern',
     company: 'TechFlow Solutions Inc.',
-    period: 'May 2023 — Aug 2023',
+    period: 'May 2025— Aug 2026',
     type: 'professional',
     description: [
       'Collaborated with a senior team of 5 to migrate legacy PHP interfaces to React.js, improving page load speed by 40%.',
       'Implemented responsive design systems using Tailwind CSS, ensuring 100% compatibility across mobile and tablet devices.',
       'Assisted in integrating RESTful APIs for real-time data visualization on executive dashboards.'
     ],
-    technologies: ['React', 'Tailwind', 'Axios', 'Bitbucket']
+    technologies: ['React', 'HTML', 'PHP', 'CSS']
   },
   {
     id: 'exp2',
@@ -82,7 +82,7 @@ export const EXPERIENCES: Experience[] = [
       'Mentor over 15 students weekly in core Java and C# concepts, data structures, and debugging techniques.',
       'Created supplemental coding workshops focusing on Version Control (Git) best practices for freshmen.'
     ],
-    technologies: ['Java', 'C#', 'Git', 'CLI']
+    technologies: ['Javacrip', 'python', 'Git', 'Ducker']
   },
   {
     id: 'exp3',
@@ -112,5 +112,5 @@ export const EDUCATION: Education = {
 export const IMAGES = {
   portrait: 'pages/img/ream.png',
   resumePortrait: 'pages/img/pnc.png',
-  healthProject: 'pages/img/r1.png'
+  healthProject: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD1eZl3KmnehAdPzxwxk8E9BWbk3lYnV61WQxBM4mBRoU3J2FKeagkpjsUrM5M93EPEytpN5On86ZESCNJCmCDu-MD4CT5oExWG3UGISD9mcpdfvMY5yq6pF1Xt-TNz--55VCOE4tVGSwRESdtEkNoICpUGwoDOW0FFzyOS0MYYODFZjnYtR5h_UXb_qR-J7Ytlt76Ivgtr6a450f7cEVREegdexmOAVFqgiwgv7e4B9zuTfkJn1ebUjq8syl6ilhd6PKs-fB7ttv4'
 };
