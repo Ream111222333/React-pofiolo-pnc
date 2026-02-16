@@ -110,7 +110,7 @@ export const EDUCATION: Education = {
 };
 
 export const IMAGES = {
-  portrait: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDkacSkwmK7MJZ6D69oHZoGPwXR_xan3m7zdZtJp6EZO9KUWwsmWU8sVtmg2JbrhAH63TUjiQzcBMPogx2mxdqMPmPmyX6ZETiRU2b9pmYXRAOr3fqgV1Xq8MkM5Gmwn5G0pWPqWZXw4ncXQSRpw4EeOZI9n_Ke8RzzYOP5T11hMJq7EXatjM8pyNU5bmvNVjy248Z2QgjvQUfHfTdRI1Inqxmxr5HNCzN5DNunQaa8j7f6MV5kDzmy-jfvCnXBLifVqR7RDuOmnjU',
-  resumePortrait: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBwYmbGgXX_VRQ2rSr97OZrFOLD2PEK4W3qmH4o06iBF_7gydtys2UvW1BCfHJXjEYWQqGj9d-UIt5ULhDmhnsDq9I12vPIZXwsG5NHRvojWOmOoIySdO5QxE-ep01HpN8xo9AVB-Z368Un88q-QTVLvNZVUoJOPUAfxiOkSwoGYW28jZLnh5TYGxIZI9vSNHGXNCfKRS5AD63k0vG8UiQTSZS1g4GrDsPfy0glVW-1Wmk_f0or9bZr7Vaddhyfzw6FFGFqXW7ug4M',
-  healthProject: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD1eZl3KmnehAdPzxwxk8E9BWbk3lYnV61WQxBM4mBRoU3J2FKeagkpjsUrM5M93EPEytpN5On86ZESCNJCmCDu-MD4CT5oExWG3UGISD9mcpdfvMY5yq6pF1Xt-TNz--55VCOE4tVGSwRESdtEkNoICpUGwoDOW0FFzyOS0MYYODFZjnYtR5h_UXb_qR-J7Ytlt76Ivgtr6a450f7cEVREegdexmOAVFqgiwgv7e4B9zuTfkJn1ebUjq8syl6ilhd6PKs-fB7ttv4'
+  portrait: 'pages/img/ream.png',
+  resumePortrait: 'pages/img/pnc.png',
+  healthProject: 'pages/img/r1.png'
 };

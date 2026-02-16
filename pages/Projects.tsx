@@ -35,7 +35,7 @@ const Projects: React.FC = () => {
           <img 
             alt="Portrait" 
             className="rounded-2xl object-cover w-full h-full shadow-2xl border-4 border-white dark:border-slate-800" 
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDkacSkwmK7MJZ6D69oHZoGPwXR_xan3m7zdZtJp6EZO9KUWwsmWU8sVtmg2JbrhAH63TUjiQzcBMPogx2mxdqMPmPmyX6ZETiRU2b9pmYXRAOr3fqgV1Xq8MkM5Gmwn5G0pWPqWZXw4ncXQSRpw4EeOZI9n_Ke8RzzYOP5T11hMJq7EXatjM8pyNU5bmvNVjy248Z2QgjvQUfHfTdRI1Inqxmxr5HNCzN5DNunQaa8j7f6MV5kDzmy-jfvCnXBLifVqR7RDuOmnjU"
+            src="pages/img/r1.png"
           />
           <div className="absolute -bottom-2 -right-2 bg-green-500 w-6 h-6 rounded-full border-4 border-white dark:border-slate-900"></div>
         </div>
