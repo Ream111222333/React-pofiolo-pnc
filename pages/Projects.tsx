@@ -35,7 +35,7 @@ const Projects: React.FC = () => {
           <img 
             alt="Portrait" 
             className="rounded-2xl object-cover w-full h-full shadow-2xl border-4 border-white dark:border-slate-800" 
-            src="pages/img/r1.png"
+            src="assets/img/r1.png"
           />
           <div className="absolute -bottom-2 -right-2 bg-green-500 w-6 h-6 rounded-full border-4 border-white dark:border-slate-900"></div>
         </div>
