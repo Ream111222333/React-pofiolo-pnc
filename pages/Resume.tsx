@@ -11,7 +11,7 @@ const Resume: React.FC = () => {
           <div className="relative w-32 h-32 mb-6 mx-auto">
             <img 
               src={IMAGES.resumePortrait} 
-              alt="Alex Rivera" 
+              alt="ream" 
               className="rounded-2xl object-cover w-full h-full shadow-xl"
             />
             <div className="absolute -bottom-2 -right-2 bg-green-500 w-6 h-6 rounded-full border-4 border-white dark:border-slate-900"></div>

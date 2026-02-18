@@ -56,7 +56,7 @@ const Home: React.FC = () => {
             <div className="relative aspect-square max-w-md mx-auto">
               <img 
                 src={IMAGES.portrait} 
-                alt="Developer Portrait" 
+                alt="ream" 
                 className="rounded-full border-[8px] border-white dark:border-slate-800 shadow-2xl grayscale hover:grayscale-0 transition-all duration-700 object-cover w-full h-full"
               />
             </div>
