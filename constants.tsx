@@ -110,7 +110,7 @@ export const EDUCATION: Education = {
 };
 
 export const IMAGES = {
-  portrait: 'public/ream.png',
-  resumePortrait: 'public/pnc.png',
+  portrait: '/ream.png',
+  resumePortrait: '/pnc.png',
   healthProject: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD1eZl3KmnehAdPzxwxk8E9BWbk3lYnV61WQxBM4mBRoU3J2FKeagkpjsUrM5M93EPEytpN5On86ZESCNJCmCDu-MD4CT5oExWG3UGISD9mcpdfvMY5yq6pF1Xt-TNz--55VCOE4tVGSwRESdtEkNoICpUGwoDOW0FFzyOS0MYYODFZjnYtR5h_UXb_qR-J7Ytlt76Ivgtr6a450f7cEVREegdexmOAVFqgiwgv7e4B9zuTfkJn1ebUjq8syl6ilhd6PKs-fB7ttv4'
 };
